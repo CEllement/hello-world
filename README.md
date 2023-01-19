@@ -9,3 +9,4 @@ Added line #7 for Github
 Added a line in the remote repo i.e. via Github in the browser
 
 First line added from the NewBranch branch
+First line added from the newlocalbranch branch
